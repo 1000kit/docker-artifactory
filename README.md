@@ -1,2 +1,3 @@
 # docker-artifactory
-run artifactory server for EAP installation
+run artifactory server for development
+no additional repositories added
